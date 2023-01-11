@@ -26,7 +26,7 @@ en la carpeta del frontend
 
   BACKEND .env
       
-      PORT = 3001
+      PORT = 80
       DB = mongodb://thignq:pLwNOTPPWAIQclfV@ac-q0xykyq-shard-00-00.s3fgkvd.mongodb.net:27017,ac-q0xykyq-shard-00-01.s3fgkvd.mongodb.net:27017,ac-    q0xykyq-       shard-00-02.s3fgkvd.mongodb.net:27017/?ssl=true&replicaSet=atlas-11e8j0-shard-0&authSource=admin&retryWrites=true&w=majority
       email = asamblea.notificacion@gmail.com
       email_password = rczdyxklytnyeqey
@@ -46,4 +46,4 @@ en la carpeta del frontend
       
   FRONTEND .env
   
-      SERVIDOR = 146.83.198.35:1167/api
+      SERVIDOR = 146.83.198.35:1170
